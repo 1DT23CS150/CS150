@@ -1,5 +1,12 @@
 Pallavi m
 dsatm
 hello world
+<<<<<<< Updated upstream
 using git
 Dayanand sagar
+=======
+Abhilash
+Hemanth
+welcome
+>>>>>>> Stashed changes
+123
